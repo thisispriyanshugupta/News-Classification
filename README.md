@@ -1,7 +1,3 @@
-Ah, got it! Here's a `README.md` file for the MNIST Digit Classification with Convolutional Neural Networks project:
-
----
-
 # MNIST Digit Classification with Convolutional Neural Networks
 
 ## Overview
